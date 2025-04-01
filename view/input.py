@@ -73,4 +73,8 @@ ent13.place(width=1337, height=137, x=137)
 ent37.place(width=137, height=137)
 
 
+
+
+
+
 root.mainloop()

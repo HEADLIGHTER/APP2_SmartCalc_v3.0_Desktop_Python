@@ -1,5 +1,6 @@
 import tkinter as tk
 from src.view_model.check_parse import check_parse
+from src.view_model.data import help_label
 
 
 class Calculator:
